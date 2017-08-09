@@ -1,2 +1,3 @@
 # Java_Beginner
-I want to use this platform(Github) to know more
+Hello developers, I'm a new java developer, 3 mobths into programming.
+Studied architecture meaning design and construction and a total novice to programming. The experience has been fantastic. Looking forward to my first major project.
